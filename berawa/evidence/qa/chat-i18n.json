@@ -1,0 +1,449 @@
+{
+ "url": "http://127.0.0.1:38975/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene Superior con terraza privada y vistas a la Alhambra, Doble deluxe con vistas a la Alhambra, Habitación 2 camas con vistas a la Alhambr"
+    },
+    {
+     "q": "¿Hay habitación con terraza privada?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, la Superior tiene 50 m², cama doble, baño con bañera y una terraza privada con mesa, sillas y sofá con vistas a la Alhambra y a la ciuda"
+    },
+    {
+     "q": "¿Tienen habitación para cuatro?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: la Cuádruple (16 m²) tiene una cama doble y dos individuales y también puede prepararse para 2 o 3 huéspedes. La cuna está disponible ba"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Está en Calle Aljibe de Trillo, 22, 18010 Granada, en pleno Albaicín y a pocos minutos caminando del centro."
+    },
+    {
+     "q": "¿Cómo llego en coche?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Muchas calles del Albaicín tienen acceso restringido con cámaras: no pongas la dirección en el GPS ni entres en coche sin consultarles. Escr"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Colaboran con un parking privado a pocos minutos; si vas a ese parking pueden registrar tu matrícula para entrar al barrio. Está sujeto a di"
+    },
+    {
+     "q": "¿El desayuno está incluido?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, el desayuno está incluido: buffet mediterráneo en la terraza con vistas a la Alhambra. Si sales antes de las 8:00, pueden prepararlo par"
+    },
+    {
+     "q": "¿Hay piscina?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, hay piscina exterior con vistas directas a la Alhambra, de uso compartido."
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, wifi gratis en todas las habitaciones y zonas comunes."
+    },
+    {
+     "q": "¿Tienen bar?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, la terraza tiene servicio de bar todo el día con bebidas, vinos ecológicos y tablas de quesos y embutidos."
+    },
+    {
+     "q": "¿Cómo compro entradas para la Alhambra?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "En temporada alta (de marzo a noviembre) conviene reservar las entradas con hasta 6 meses de antelación en la web oficial: https://tickets.a"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 958 29 06 35 o escribir a info@casabombo.com. Este asistente no conf"
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Según su aviso legal, el titular es ITALCARMENES SOCIEDAD LIMITADA, CIF B18994822."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 958 29 06 35 · info@casabombo.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 958 29 06 35 o escribir a info@casabombo.com. Este asistente no conf"
+    },
+    {
+     "q": "¿Tienen spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 958 29 06 35 · info@casabombo.com."
+    }
+   ],
+   "chips": [
+    "¿Qué habitaciones tiene?",
+    "¿El desayuno está incluido?",
+    "¿Cómo llego en coche?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "hero_k",
+    "intro_k",
+    "intro_t",
+    "send",
+    "stat2",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quines habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té Superior amb terrassa privada i vistes a l'Alhambra, Doble deluxe amb vistes a l'Alhambra, Habitació de 2 llits amb vistes a l'Alhambra i"
+    },
+    {
+     "q": "Hi ha habitació amb terrassa privada?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sí, la Superior té 50 m², llit doble, bany amb banyera i una terrassa privada amb taula, cadires i sofà amb vistes a l'Alhambra i a la ciuta"
+    },
+    {
+     "q": "Teniu habitació per a quatre?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: la Quàdruple (16 m²) té un llit doble i dos d'individuals i també es pot preparar per a 2 o 3 hostes. El bressol està disponible sota de"
+    },
+    {
+     "q": "On és?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "És a Calle Aljibe de Trillo, 22, 18010 Granada, al bell mig de l'Albaicín i a pocs minuts a peu del centre."
+    },
+    {
+     "q": "Com hi arribo en cotxe?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Molts carrers de l'Albaicín tenen accés restringit amb càmeres: no posis l'adreça al GPS ni hi entris en cotxe sense consultar-los. Escriu-l"
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Col·laboren amb un pàrquing privat a pocs minuts; si hi vas, poden registrar la teva matrícula per entrar al barri. Està subjecte a disponib"
+    },
+    {
+     "q": "L'esmorzar està inclòs?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí, l'esmorzar està inclòs: bufet mediterrani a la terrassa amb vistes a l'Alhambra. Si surts abans de les 8:00, te'l poden preparar per emp"
+    },
+    {
+     "q": "Hi ha piscina?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sí, hi ha piscina exterior amb vistes directes a l'Alhambra, d'ús compartit."
+    },
+    {
+     "q": "Hi ha wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, wifi gratuït a totes les habitacions i zones comunes."
+    },
+    {
+     "q": "Teniu bar?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, la terrassa té servei de bar tot el dia amb begudes, vins ecològics i taules de formatges i embotits."
+    },
+    {
+     "q": "Com compro entrades per a l'Alhambra?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "En temporada alta (de març a novembre) convé reservar les entrades amb fins a 6 mesos d'antelació al web oficial: https://tickets.alhambra-p"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 958 29 06 35 o escriure a info@casabombo.com. Aquest assistent no conf"
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Segons el seu avís legal, el titular és ITALCARMENES SOCIEDAD LIMITADA, CIF B18994822."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 958 29 06 35 · info@casabombo.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 958 29 06 35 o escriure a info@casabombo.com. Aquest assistent no conf"
+    },
+    {
+     "q": "Teniu spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: +34 958 29 06 35 · info@casabombo.com."
+    }
+   ],
+   "chips": [
+    "Quines habitacions té?",
+    "L'esmorzar està inclòs?",
+    "Com hi arribo en cotxe?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "What rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has a Superior with private terrace and Alhambra views, a Deluxe double with Alhambra views, a Twin room with Alhambra views and a Quadru"
+    },
+    {
+     "q": "Is there a room with a private terrace?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Yes, the Superior is 50 m², with a double bed, bathroom with bathtub and a private terrace with table, chairs and sofa overlooking the Alham"
+    },
+    {
+     "q": "Do you have a room for four?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: the Quadruple (16 m²) has a double bed and two singles and can also be set up for 2 or 3 guests. A cot is available on request."
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "It is at Calle Aljibe de Trillo, 22, 18010 Granada, in the heart of the Albaicín, a few minutes' walk from the centre."
+    },
+    {
+     "q": "How do I arrive by car?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Many Albaicín streets have camera-controlled restricted access: do not put the address in your GPS or drive in without asking them. Write to"
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "They work with a private car park a few minutes away; if you use it they can register your number plate to enter the quarter. Subject to ava"
+    },
+    {
+     "q": "Is breakfast included?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes, breakfast is included: a Mediterranean buffet on the terrace with Alhambra views. If you leave before 8:00, they can prepare it to take"
+    },
+    {
+     "q": "Is there a pool?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Yes, there is a shared outdoor pool with direct views of the Alhambra."
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes, free wifi in all rooms and common areas."
+    },
+    {
+     "q": "Do you have a bar?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, the terrace has an all-day bar with drinks, organic wines and cheese and cold-meat boards."
+    },
+    {
+     "q": "How do I buy Alhambra tickets?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "In high season (March to November) book tickets up to 6 months ahead on the official website: https://tickets.alhambra-patronato.es/en/"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 958 29 06 35 or email info@casabombo.com. This assistant does not confirm availab"
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "According to its legal notice, the owner is ITALCARMENES SOCIEDAD LIMITADA, CIF B18994822."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 958 29 06 35 · info@casabombo.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "You can book on its booking engine (Book button), call +34 958 29 06 35 or email info@casabombo.com. This assistant does not confirm availab"
+    },
+    {
+     "q": "Is there a spa?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 958 29 06 35 · info@casabombo.com."
+    }
+   ],
+   "chips": [
+    "What rooms does it have?",
+    "Is breakfast included?",
+    "How do I arrive by car?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quelles chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il propose une Supérieure avec terrasse privée et vue sur l'Alhambra, une Double deluxe avec vue sur l'Alhambra, une chambre à deux lits ave"
+    },
+    {
+     "q": "Y a-t-il une chambre avec terrasse privée ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Oui, la Supérieure fait 50 m², avec lit double, salle de bain avec baignoire et une terrasse privée avec table, chaises et canapé donnant su"
+    },
+    {
+     "q": "Avez-vous une chambre pour quatre ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : la Quadruple (16 m²) a un lit double et deux lits simples et peut aussi être préparée pour 2 ou 3 personnes. Lit bébé sur demande."
+    },
+    {
+     "q": "Où est-il ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Il se trouve Calle Aljibe de Trillo, 22, 18010 Grenade, au cœur de l'Albaicín, à quelques minutes à pied du centre."
+    },
+    {
+     "q": "Comment venir en voiture ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Beaucoup de rues de l'Albaicín sont à accès restreint contrôlé par caméras : ne mettez pas l'adresse dans le GPS et n'entrez pas en voiture "
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Ils travaillent avec un parking privé à quelques minutes ; si vous y allez, ils peuvent enregistrer votre plaque pour entrer dans le quartie"
+    },
+    {
+     "q": "Le petit-déjeuner est-il inclus ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui, le petit-déjeuner est inclus : buffet méditerranéen en terrasse avec vue sur l'Alhambra. Si vous partez avant 8h00, ils peuvent le prép"
+    },
+    {
+     "q": "Y a-t-il une piscine ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Oui, il y a une piscine extérieure partagée avec vue directe sur l'Alhambra."
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui, wifi gratuit dans toutes les chambres et parties communes."
+    },
+    {
+     "q": "Avez-vous un bar ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, la terrasse a un service de bar toute la journée avec boissons, vins biologiques et planches de fromages et charcuterie."
+    },
+    {
+     "q": "Comment acheter les billets de l'Alhambra ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "En haute saison (de mars à novembre), réservez les billets jusqu'à 6 mois à l'avance sur le site officiel : https://tickets.alhambra-patrona"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 958 29 06 35 ou écrire à info@casabombo.com. Cet assist"
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Selon ses mentions légales, le titulaire est ITALCARMENES SOCIEDAD LIMITADA, CIF B18994822."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 958 29 06 35 · info@casabombo.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 958 29 06 35 ou écrire à info@casabombo.com. Cet assist"
+    },
+    {
+     "q": "Y a-t-il un spa ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 958 29 06 35 · info@casabombo.com."
+    }
+   ],
+   "chips": [
+    "Quelles chambres a-t-il ?",
+    "Le petit-déjeuner est-il inclus ?",
+    "Comment venir en voiture ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}
