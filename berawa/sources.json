@@ -1,0 +1,75 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.casabombo.com/",
+ "read_at": "2026-10-29T17:06:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.casabombo.com/",
+   "sha256": "130fddb3f18f9ad9db5db57f6f7c29502f2e50e4d7e375bbc6a76bb83fa07de2",
+   "chars": 15382
+  },
+  {
+   "url": "https://www.casabombo.com/aviso-legal/",
+   "sha256": "21211c2bd97ef9fc0b22afdda5651c8a905f40a6f17856168c98d1b3b8801d91",
+   "chars": 11237
+  },
+  {
+   "url": "https://www.casabombo.com/contacto/",
+   "sha256": "344b9f3583963913656a64ac5a5138f496c30ace3ddb98ce4264875ff8671ab2",
+   "chars": 8983
+  },
+  {
+   "url": "https://www.casabombo.com/desayunos-casa-bombo/",
+   "sha256": "68cebb9d0e27f9e53bb1d2169f8ca1aed8bcaf8f2ff95327d6a003f11c40623d",
+   "chars": 9483
+  },
+  {
+   "url": "https://www.casabombo.com/habitaciones-casa-bombo/cuadruple/",
+   "sha256": "a11a98d07fd1f27ad0a265d3a7514a74a9f46221a8e87b6f4076f4c5077dab6f",
+   "chars": 8998
+  },
+  {
+   "url": "https://www.casabombo.com/habitaciones-casa-bombo/deluxe/",
+   "sha256": "83b72d1b10b2c7dae46e03764636bba1d0df1eab952e7a3f4b4e9872a87cd356",
+   "chars": 9071
+  },
+  {
+   "url": "https://www.casabombo.com/habitaciones-casa-bombo/dos-camas-vistas-alhambra/",
+   "sha256": "f27d8180c4ea09b02f3cf027686bc7db04e02c53d04b60f3d3df962d04087183",
+   "chars": 9030
+  },
+  {
+   "url": "https://www.casabombo.com/habitaciones-casa-bombo/superior-terraza/",
+   "sha256": "8617249de15fa999b46d451496a91c4b90147febbc4a1f95afd9c1200bb8955f",
+   "chars": 9049
+  },
+  {
+   "url": "https://www.casabombo.com/instalaciones-servicios/",
+   "sha256": "e897a630594d2cf0f58cbbec672d363ad7af3c1f364edea52fe5bd87ad8cc35d",
+   "chars": 10896
+  },
+  {
+   "url": "https://www.casabombo.com/preguntas-frecuentes/",
+   "sha256": "b6f456b57064a951357f2dd770be9c263d1bbf8a5a7b37ecb36acc1941c201f9",
+   "chars": 10338
+  }
+ ],
+ "other_pages_read": [
+  "https://www.casabombo.com",
+  "https://www.casabombo.com/descuentos-ventajas/",
+  "https://www.casabombo.com/en/breakfasts-views-alhambra/",
+  "https://www.casabombo.com/en/casabombo/",
+  "https://www.casabombo.com/en/contact/",
+  "https://www.casabombo.com/en/discounts-advantages/",
+  "https://www.casabombo.com/en/frequently-asked-questions/",
+  "https://www.casabombo.com/en/gallery/",
+  "https://www.casabombo.com/en/plans-in-granada/",
+  "https://www.casabombo.com/en/rooms/",
+  "https://www.casabombo.com/en/rooms/deluxe-room/",
+  "https://www.casabombo.com/en/rooms/superior-room-views-alhambra/",
+  "https://www.casabombo.com/galeria/",
+  "https://www.casabombo.com/planes-granada/",
+  "https://www.casabombo.com/politica-cookies/"
+ ]
+}
