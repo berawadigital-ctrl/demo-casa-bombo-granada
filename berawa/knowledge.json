@@ -1,0 +1,591 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-casa-bombo-granada",
+ "source_site": "https://www.casabombo.com/",
+ "source_read_at": "2026-10-29T17:06:00+01:00",
+ "note": "Respuestas solo con datos publicados en casabombo.com, sin precios. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "habitaciones",
+   "keys": {
+    "es": [
+     "que habitaciones",
+     "tipos de habitacion",
+     "habitaciones tiene"
+    ],
+    "ca": [
+     "quines habitacions",
+     "tipus d habitacio",
+     "habitacions te"
+    ],
+    "en": [
+     "what rooms",
+     "room types",
+     "rooms does"
+    ],
+    "fr": [
+     "quelles chambres",
+     "types de chambre"
+    ]
+   },
+   "a": {
+    "es": "Tiene Superior con terraza privada y vistas a la Alhambra, Doble deluxe con vistas a la Alhambra, Habitación 2 camas con vistas a la Alhambra y Cuádruple con vistas a la Alhambra.",
+    "ca": "Té Superior amb terrassa privada i vistes a l'Alhambra, Doble deluxe amb vistes a l'Alhambra, Habitació de 2 llits amb vistes a l'Alhambra i Quàdruple amb vistes a l'Alhambra.",
+    "en": "It has a Superior with private terrace and Alhambra views, a Deluxe double with Alhambra views, a Twin room with Alhambra views and a Quadruple with Alhambra views.",
+    "fr": "Il propose une Supérieure avec terrasse privée et vue sur l'Alhambra, une Double deluxe avec vue sur l'Alhambra, une chambre à deux lits avec vue sur l'Alhambra et une Quadruple avec vue sur l'Alhambra."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/habitaciones-casa-bombo/superior-terraza/",
+     "quote": "Superior con terraza y vistas a la Alhambra"
+    },
+    {
+     "url": "https://www.casabombo.com/habitaciones-casa-bombo/deluxe/",
+     "quote": "Doble deluxe con vistas a la Alhambra"
+    },
+    {
+     "url": "https://www.casabombo.com/habitaciones-casa-bombo/dos-camas-vistas-alhambra/",
+     "quote": "Habitación 2 camas con vistas a la Alhambra"
+    },
+    {
+     "url": "https://www.casabombo.com/habitaciones-casa-bombo/cuadruple/",
+     "quote": "Cuádruple con vistas a la Alhambra"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "terraza privada",
+   "keys": {
+    "es": [
+     "terraza privada",
+     "superior",
+     "50 m"
+    ],
+    "ca": [
+     "terrassa privada",
+     "superior"
+    ],
+    "en": [
+     "private terrace",
+     "superior"
+    ],
+    "fr": [
+     "terrasse privee",
+     "superieure"
+    ]
+   },
+   "a": {
+    "es": "Sí, la Superior tiene 50 m², cama doble, baño con bañera y una terraza privada con mesa, sillas y sofá con vistas a la Alhambra y a la ciudad.",
+    "ca": "Sí, la Superior té 50 m², llit doble, bany amb banyera i una terrassa privada amb taula, cadires i sofà amb vistes a l'Alhambra i a la ciutat.",
+    "en": "Yes, the Superior is 50 m², with a double bed, bathroom with bathtub and a private terrace with table, chairs and sofa overlooking the Alhambra and the city.",
+    "fr": "Oui, la Supérieure fait 50 m², avec lit double, salle de bain avec baignoire et une terrasse privée avec table, chaises et canapé donnant sur l'Alhambra et la ville."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/habitaciones-casa-bombo/superior-terraza/",
+     "quote": "habitación Superior de 50 m², que incluye una magnífica terraza privada con impresionantes vistas panorámicas a la Alhambra y a la ciudad"
+    },
+    {
+     "url": "https://www.casabombo.com/habitaciones-casa-bombo/superior-terraza/",
+     "quote": "terraza privada, equipada con mesa, sillas y sofá"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "familias",
+   "keys": {
+    "es": [
+     "cuatro",
+     "cuadruple",
+     "familia",
+     "grupo",
+     "cuna"
+    ],
+    "ca": [
+     "quatre",
+     "quadruple",
+     "famil",
+     "grup",
+     "bressol"
+    ],
+    "en": [
+     "four",
+     "quadruple",
+     "family",
+     "group",
+     "cot"
+    ],
+    "fr": [
+     "quatre",
+     "quadruple",
+     "famille",
+     "groupe",
+     "berceau"
+    ]
+   },
+   "a": {
+    "es": "Sí: la Cuádruple (16 m²) tiene una cama doble y dos individuales y también puede prepararse para 2 o 3 huéspedes. La cuna está disponible bajo demanda.",
+    "ca": "Sí: la Quàdruple (16 m²) té un llit doble i dos d'individuals i també es pot preparar per a 2 o 3 hostes. El bressol està disponible sota demanda.",
+    "en": "Yes: the Quadruple (16 m²) has a double bed and two singles and can also be set up for 2 or 3 guests. A cot is available on request.",
+    "fr": "Oui : la Quadruple (16 m²) a un lit double et deux lits simples et peut aussi être préparée pour 2 ou 3 personnes. Lit bébé sur demande."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/habitaciones-casa-bombo/cuadruple/",
+     "quote": "Dispone de una cama doble y dos camas individuales, aunque también puede prepararse para 2 o 3 huéspedes según sus necesidades"
+    },
+    {
+     "url": "https://www.casabombo.com/preguntas-frecuentes/",
+     "quote": "Bajo demanda / sujeto a disponibilidad"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "ubicación",
+   "keys": {
+    "es": [
+     "donde esta",
+     "direccion",
+     "ubicacion",
+     "albaicin",
+     "albayzin"
+    ],
+    "ca": [
+     " on es",
+     "adreca",
+     "ubicacio",
+     "albaicin"
+    ],
+    "en": [
+     "where is",
+     "address",
+     "location",
+     "albaicin"
+    ],
+    "fr": [
+     "ou est",
+     "adresse",
+     "situe",
+     "albaicin"
+    ]
+   },
+   "a": {
+    "es": "Está en Calle Aljibe de Trillo, 22, 18010 Granada, en pleno Albaicín y a pocos minutos caminando del centro.",
+    "ca": "És a Calle Aljibe de Trillo, 22, 18010 Granada, al bell mig de l'Albaicín i a pocs minuts a peu del centre.",
+    "en": "It is at Calle Aljibe de Trillo, 22, 18010 Granada, in the heart of the Albaicín, a few minutes' walk from the centre.",
+    "fr": "Il se trouve Calle Aljibe de Trillo, 22, 18010 Grenade, au cœur de l'Albaicín, à quelques minutes à pied du centre."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/contacto/",
+     "quote": "Calle Aljibe de Trillo, 22, 18010 Granada"
+    },
+    {
+     "url": "https://www.casabombo.com/",
+     "quote": "En el barrio con más encanto de la ciudad y a pocos minutos caminando del centro."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "coche",
+   "keys": {
+    "es": [
+     "coche",
+     "gps",
+     "llegar en",
+     "acceso",
+     "camaras"
+    ],
+    "ca": [
+     "cotxe",
+     "gps",
+     "arribar en",
+     "acces"
+    ],
+    "en": [
+     "car",
+     "gps",
+     "drive",
+     "access"
+    ],
+    "fr": [
+     "voiture",
+     "gps",
+     "acces"
+    ]
+   },
+   "a": {
+    "es": "Muchas calles del Albaicín tienen acceso restringido con cámaras: no pongas la dirección en el GPS ni entres en coche sin consultarles. Escríbeles antes de llegar y te explican la mejor ruta y dónde aparcar.",
+    "ca": "Molts carrers de l'Albaicín tenen accés restringit amb càmeres: no posis l'adreça al GPS ni hi entris en cotxe sense consultar-los. Escriu-los abans d'arribar i t'expliquen la millor ruta i on aparcar.",
+    "en": "Many Albaicín streets have camera-controlled restricted access: do not put the address in your GPS or drive in without asking them. Write to them before arriving and they will explain the best route and where to park.",
+    "fr": "Beaucoup de rues de l'Albaicín sont à accès restreint contrôlé par caméras : ne mettez pas l'adresse dans le GPS et n'entrez pas en voiture sans les consulter. Écrivez-leur avant d'arriver pour connaître le meilleur itinéraire et où vous garer."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/preguntas-frecuentes/",
+     "quote": "Muchas calles del centro tienen acceso restringido mediante cámaras, por lo que te recomendamos no acceder en coche sin consultarnos antes."
+    },
+    {
+     "url": "https://www.casabombo.com/preguntas-frecuentes/",
+     "quote": "Escríbenos antes de llegar y te explicaremos la mejor ruta y dónde aparcar."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparcar",
+     "aparcamiento",
+     "matricula"
+    ],
+    "ca": [
+     "parquing",
+     "aparcar",
+     "aparcament",
+     "matricula"
+    ],
+    "en": [
+     "parking",
+     "park"
+    ],
+    "fr": [
+     "parking",
+     "garer"
+    ]
+   },
+   "a": {
+    "es": "Colaboran con un parking privado a pocos minutos; si vas a ese parking pueden registrar tu matrícula para entrar al barrio. Está sujeto a disponibilidad: pregunta horario y tarifas.",
+    "ca": "Col·laboren amb un pàrquing privat a pocs minuts; si hi vas, poden registrar la teva matrícula per entrar al barri. Està subjecte a disponibilitat: pregunta horari i tarifes.",
+    "en": "They work with a private car park a few minutes away; if you use it they can register your number plate to enter the quarter. Subject to availability: ask about hours and rates.",
+    "fr": "Ils travaillent avec un parking privé à quelques minutes ; si vous y allez, ils peuvent enregistrer votre plaque pour entrer dans le quartier. Selon disponibilité : demandez horaires et tarifs."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/preguntas-frecuentes/",
+     "quote": "colaboramos con un parking privado a pocos minutos del hotel"
+    },
+    {
+     "url": "https://www.casabombo.com/preguntas-frecuentes/",
+     "quote": "podemos registrar tu matrícula y autorizarla para que entres al barrio sin problema"
+    },
+    {
+     "url": "https://www.casabombo.com/preguntas-frecuentes/",
+     "quote": "PARKING SUJETO A DISPONIBILIDAD"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "desayuno",
+   "keys": {
+    "es": [
+     "desayuno",
+     "buffet",
+     "desayunar"
+    ],
+    "ca": [
+     "esmorzar",
+     "bufet"
+    ],
+    "en": [
+     "breakfast",
+     "buffet"
+    ],
+    "fr": [
+     "petit-dejeuner",
+     "petit dejeuner",
+     "buffet"
+    ]
+   },
+   "a": {
+    "es": "Sí, el desayuno está incluido: buffet mediterráneo en la terraza con vistas a la Alhambra. Si sales antes de las 8:00, pueden prepararlo para llevar.",
+    "ca": "Sí, l'esmorzar està inclòs: bufet mediterrani a la terrassa amb vistes a l'Alhambra. Si surts abans de les 8:00, te'l poden preparar per emportar.",
+    "en": "Yes, breakfast is included: a Mediterranean buffet on the terrace with Alhambra views. If you leave before 8:00, they can prepare it to take away.",
+    "fr": "Oui, le petit-déjeuner est inclus : buffet méditerranéen en terrasse avec vue sur l'Alhambra. Si vous partez avant 8h00, ils peuvent le préparer à emporter."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/preguntas-frecuentes/",
+     "quote": "Desayuno incluido"
+    },
+    {
+     "url": "https://www.casabombo.com/desayunos-casa-bombo/",
+     "quote": "disfrutar de un completo desayuno buffet mediterráneo en nuestra terraza"
+    },
+    {
+     "url": "https://www.casabombo.com/desayunos-casa-bombo/",
+     "quote": "Si tienes previsto salir antes de las 8:00, también podemos prepararlo para llevar."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "piscina",
+   "keys": {
+    "es": [
+     "piscina",
+     "bañarse",
+     "nadar"
+    ],
+    "ca": [
+     "piscina",
+     "banyar",
+     "nedar"
+    ],
+    "en": [
+     "pool",
+     "swim"
+    ],
+    "fr": [
+     "piscine",
+     "nager"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay piscina exterior con vistas directas a la Alhambra, de uso compartido.",
+    "ca": "Sí, hi ha piscina exterior amb vistes directes a l'Alhambra, d'ús compartit.",
+    "en": "Yes, there is a shared outdoor pool with direct views of the Alhambra.",
+    "fr": "Oui, il y a une piscine extérieure partagée avec vue directe sur l'Alhambra."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/instalaciones-servicios/",
+     "quote": "PISCINA EXTERIOR Relájate en nuestra piscina con vistas directas a la Alhambra"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ],
+    "ca": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ],
+    "en": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ],
+    "fr": [
+     "wifi",
+     "internet",
+     "wi-fi"
+    ]
+   },
+   "a": {
+    "es": "Sí, wifi gratis en todas las habitaciones y zonas comunes.",
+    "ca": "Sí, wifi gratuït a totes les habitacions i zones comunes.",
+    "en": "Yes, free wifi in all rooms and common areas.",
+    "fr": "Oui, wifi gratuit dans toutes les chambres et parties communes."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/instalaciones-servicios/",
+     "quote": "conexión WiFi gratuita disponible en todas las habitaciones y zonas comunes"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "bar",
+   "keys": {
+    "es": [
+     "bar",
+     "vino",
+     "copa",
+     "tabla"
+    ],
+    "ca": [
+     "bar",
+     "vi",
+     "copa",
+     "taula"
+    ],
+    "en": [
+     "bar",
+     "wine",
+     "drink"
+    ],
+    "fr": [
+     "bar",
+     "vin",
+     "boire"
+    ]
+   },
+   "a": {
+    "es": "Sí, la terraza tiene servicio de bar todo el día con bebidas, vinos ecológicos y tablas de quesos y embutidos.",
+    "ca": "Sí, la terrassa té servei de bar tot el dia amb begudes, vins ecològics i taules de formatges i embotits.",
+    "en": "Yes, the terrace has an all-day bar with drinks, organic wines and cheese and cold-meat boards.",
+    "fr": "Oui, la terrasse a un service de bar toute la journée avec boissons, vins biologiques et planches de fromages et charcuterie."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/desayunos-casa-bombo/",
+     "quote": "Nuestro servicio de bar ofrece bebidas, vinos ecológicos y deliciosas tablas de quesos y embutidos"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "alhambra",
+   "keys": {
+    "es": [
+     "entradas",
+     "tickets",
+     "visitar la alhambra",
+     "alhambra"
+    ],
+    "ca": [
+     "entrades",
+     "tickets",
+     "visitar l alhambra",
+     "alhambra"
+    ],
+    "en": [
+     "tickets",
+     "visit the alhambra",
+     "alhambra"
+    ],
+    "fr": [
+     "billets",
+     "visiter l alhambra",
+     "alhambra"
+    ]
+   },
+   "a": {
+    "es": "En temporada alta (de marzo a noviembre) conviene reservar las entradas con hasta 6 meses de antelación en la web oficial: https://tickets.alhambra-patronato.es/en/",
+    "ca": "En temporada alta (de març a novembre) convé reservar les entrades amb fins a 6 mesos d'antelació al web oficial: https://tickets.alhambra-patronato.es/en/",
+    "en": "In high season (March to November) book tickets up to 6 months ahead on the official website: https://tickets.alhambra-patronato.es/en/",
+    "fr": "En haute saison (de mars à novembre), réservez les billets jusqu'à 6 mois à l'avance sur le site officiel : https://tickets.alhambra-patronato.es/en/"
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/preguntas-frecuentes/",
+     "quote": "Durante la temporada alta (de marzo a noviembre), asegúrate de reservar tus tickets con hasta 6 meses de antelación"
+    },
+    {
+     "url": "https://www.casabombo.com/preguntas-frecuentes/",
+     "quote": "https://tickets.alhambra-patronato.es/en/"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K12",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ],
+    "ca": [
+     "reserv",
+     "disponib",
+     "lliure",
+     "confirma"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "free room",
+     "confirm"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "libre",
+     "confirm"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en su motor de reservas (botón Reservar), llamar al +34 958 29 06 35 o escribir a info@casabombo.com. Este asistente no confirma disponibilidad ni reservas.",
+    "ca": "Pots reservar al seu motor de reserves (botó Reservar), trucar al +34 958 29 06 35 o escriure a info@casabombo.com. Aquest assistent no confirma disponibilitat ni reserves.",
+    "en": "You can book on its booking engine (Book button), call +34 958 29 06 35 or email info@casabombo.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur son moteur de réservation (bouton Réserver), appeler le +34 958 29 06 35 ou écrire à info@casabombo.com. Cet assistant ne confirme ni disponibilités ni réservations."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/contacto/",
+     "quote": "+34 958 29 06 35"
+    },
+    {
+     "url": "https://www.casabombo.com/contacto/",
+     "quote": "info@casabombo.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K13",
+   "topic": "titular",
+   "keys": {
+    "es": [
+     "titular",
+     "propietario",
+     "razon social",
+     "cif"
+    ],
+    "ca": [
+     "titular",
+     "propietari",
+     "rao social",
+     "cif"
+    ],
+    "en": [
+     "owner",
+     "legal name",
+     "cif",
+     "company"
+    ],
+    "fr": [
+     "titulaire",
+     "proprietaire",
+     "raison sociale",
+     "cif",
+     "societe"
+    ]
+   },
+   "a": {
+    "es": "Según su aviso legal, el titular es ITALCARMENES SOCIEDAD LIMITADA, CIF B18994822.",
+    "ca": "Segons el seu avís legal, el titular és ITALCARMENES SOCIEDAD LIMITADA, CIF B18994822.",
+    "en": "According to its legal notice, the owner is ITALCARMENES SOCIEDAD LIMITADA, CIF B18994822.",
+    "fr": "Selon ses mentions légales, le titulaire est ITALCARMENES SOCIEDAD LIMITADA, CIF B18994822."
+   },
+   "sources": [
+    {
+     "url": "https://www.casabombo.com/aviso-legal/",
+     "quote": "Titular: ITALCARMENES SOCIEDAD LIMITADA C.I.F.: B18994822"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}

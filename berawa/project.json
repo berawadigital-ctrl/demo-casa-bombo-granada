@@ -1,0 +1,68 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-casa-bombo-granada",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T17:06:00+01:00",
+ "updated_at": "2026-10-29T17:15:00+01:00",
+ "business": {
+  "name": "Casa Bombo",
+  "legal_name": "ITALCARMENES SOCIEDAD LIMITADA",
+  "registry_ids": [
+   "CIF B18994822"
+  ],
+  "url": "https://www.casabombo.com/",
+  "domain": "casabombo.com",
+  "municipality": "Granada",
+  "province": "Granada",
+  "address": "Calle Aljibe de Trillo, 22 · 18010 Granada",
+  "phones": [
+   "+34 958 29 06 35"
+  ],
+  "emails": [
+   "info@casabombo.com"
+  ],
+  "sector": "bed and breakfast boutique en el Albaicin (Granada)"
+ },
+ "rating": {
+  "value": 4.7,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Casa+Bombo/@37.180081,-3.5935096,17z/data=!4m9!3m8!1s0xd71fcc7a202b989:0xdcb0517801c89a3!5m2!4m1!1i2!8m2!3d37.180081!4d-3.5935096!16s%2Fg%2F11r8ck52r",
+  "date": "2026-10-29T12:50:21+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": {
+   "es": "https://hotels.cloudbeds.com/reservation/24a5mw",
+   "ca": "https://hotels.cloudbeds.com/reservation/24a5mw",
+   "en": "https://hotels.cloudbeds.com/reservation/24a5mw",
+   "fr": "https://hotels.cloudbeds.com/reservation/24a5mw"
+  },
+  "note": "Las reservas van al motor de reservas del propio negocio (Cloudbeds, hotels.cloudbeds.com/reservation/24a5mw, enlazado desde casabombo.com); la demo no construye ningun motor."
+ },
+ "audit_original": {
+  "url": "https://www.casabombo.com/",
+  "date": "2026-10-29T12:52:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
